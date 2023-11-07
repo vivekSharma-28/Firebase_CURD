@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edit_Email" type="id" />
+    <item name="edit_Number" type="id" />
+    <item name="edit_Query" type="id" />
+    <item name="text_Email" type="id" />
+    <item name="text_Number" type="id" />
+    <item name="text_Query" type="id" />
+</resources>
